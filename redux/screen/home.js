@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { View, Text } from 'react-native'
 import { connect } from 'react-redux' // mehubungkan antara redux dan react
-
+// membuat class home
 class Home extends Component {
     render() {
         return (
